@@ -1,2 +1,2 @@
 # sharer
-spring-cloud micre-service
+spring-cloud micro-service
